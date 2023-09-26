@@ -15,6 +15,7 @@ You can try out the live demo of the Simple Todo App [here](https://preeminent-d
 ## Screenshots
 
 ![Todo App Screenshot 1](https://github.com/S4MU3L6R360RY/Simple-TodoList/blob/50121dcee538fba4b2ff1d096fce3eeda32cae73/screenshots/Screenshot_20230927_001735.png)
+
 ![Todo App Screenshot 2](https://github.com/S4MU3L6R360RY/Simple-TodoList/blob/50121dcee538fba4b2ff1d096fce3eeda32cae73/screenshots/Screenshot_20230927_002205.png)
 
 ## Usage
