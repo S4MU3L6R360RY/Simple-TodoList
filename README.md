@@ -26,4 +26,4 @@ You can try out the live demo of the Simple Todo App [here](https://preeminent-d
 
 ## License
 
-This project is licensed under the MIT License - see the ![LICENSE]() file for details.
+This project is licensed under the MIT License - see the ![LICENSE](https://github.com/S4MU3L6R360RY/Simple-TodoList/blob/834e09f0ba932a8c6d9a5b69376c74a6d5f94901/LICENSE) file for details.
