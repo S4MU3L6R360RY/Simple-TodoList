@@ -1,7 +1,0 @@
-Version 1.1
-
-    • added check and uncheck feature in the list.
-    • general improvement in code.
-
-Version 1.2
-    • added clicking effects into add button and remove button.
