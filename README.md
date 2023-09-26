@@ -22,9 +22,7 @@ You can try out the live demo of the Simple Todo App [here](https://preeminent-d
 
   * To add a new task, simply type your task in the input field and press the "Add" button.
   * To mark a task as completed, click the checkbox next to the task.
-  * To edit a task, double-click on the task text and make your changes.
   * To delete a task, click the "x" button.
-  * Use the filter buttons to filter tasks by their status.
 
 ## License
 
